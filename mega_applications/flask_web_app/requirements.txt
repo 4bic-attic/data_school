@@ -73,7 +73,7 @@ jupyter-core==4.3.0
 jupyterlab==0.27.0
 jupyterlab-launcher==0.5.3
 linear-tsv==1.0.0
-lxml==3.5.0
+lxml==4.6.3
 macholib==1.8
 MarkupSafe==1.0
 matplotlib==1.5.3
